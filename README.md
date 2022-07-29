@@ -1,4 +1,6 @@
 # Oussama Sallak
+NOTE : My C projects are tested Only on macOS, don't panic if you get some undefined behaviors on other Operating Systems
+
 📈 my github stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=osallak&count_private=true&show_icons=true&theme=vue-dark"/>
