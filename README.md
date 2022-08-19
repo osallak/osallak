@@ -1,7 +1,7 @@
 # Oussama Sallak
 Important Notice !!!
 
-My C projects are tested Only on macOS, don't panic if you get some undefined behaviors on other Operating Systems
+               My C projects are tested Only on macOS, don't panic if you get some undefined behaviors on other Operating Systems
 
 📈 my github stats
 
