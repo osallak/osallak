@@ -30,6 +30,7 @@ DOOM is a reimagined version of the iconic game using ray-casting in C, with imm
 I’m dedicated to continuous growth, expanding my knowledge in AI-enhanced application integration, microservices, scalable web platforms, and advanced system programming. Every project brings an opportunity to refine my skills and adopt the latest best practices in software development.
 
 ## 📫 Let's Connect!
+- Portfolio: [osallak.tech](https://osallak.tech)
 - GitHub: [github.com/osallak](https://github.com/osallak)
 - LinkedIn: [linkedin.com/in/osallak](https://linkedin.com/in/osallak)
 - Email: oussamasallak1@gmail.com
