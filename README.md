@@ -1,33 +1,54 @@
-# Oussama Sallak - Full Stack Developer | C/C++/JavaScript | AI-Enhanced Web Solutions
-Hi! I’m Oussama Sallak, a full-stack developer skilled at integrating AI and large language models into scalable web applications. My work spans backend development, systems programming, and frontend design, with a focus on creating efficient, high-performing applications. Here’s a snapshot of my tech stack and top projects.
+# Oussama Sallak - Full-Stack & AI Engineer | MLOps Specialist
+
+Hi! I'm Oussama Sallak, a full-stack and AI engineer specializing in building intelligent systems with AI agents, LangChain, and MLOps pipelines. I develop scalable AI-powered applications from model deployment to production monitoring, combining strong backend expertise with modern AI integration. Currently leading AI integration at Chemp.ai and building MLOps infrastructure at Andala.ai.
 
 ## 🔧 Technologies & Tools
-- **Backend & Full-Stack Development**
-  - Django, Node.js, Next.js, Microservices
-  - Docker, PostgreSQL, AWS
-- **Low-Level & Systems Programming**
-  - C, C++ (UNIX systems, multithreading)
-  - Network Programming (Sockets, Security)
-- **AI & Machine Learning Integration**
-  - LangChain, LlamaIndex
-- **Frontend Development**
-  - React, TailwindCSS, HTML5, CSS3
+- **AI & Machine Learning**
+  - LangChain, RAG (Retrieval-Augmented Generation), PyTorch
+  - Vector Databases, Agentic Workflows
+  - Model Deployment, Fine-tuning, Inference Optimization
+- **Backend & MLOps**
+  - Python, FastAPI, Django
+  - Docker, Kubernetes, AWS, CI/CD
+  - PostgreSQL, Redis, Celery, RabbitMQ
+- **Frontend & Mobile**
+  - React, Next.js, React Native, TypeScript
+  - TailwindCSS, Framer Motion
+- **Systems Programming**
+  - C, C++ (UNIX, Multithreading, Networking)
+  - Performance Optimization, Low-level Programming
 
-## 💼 Notable Projects
-### SpinShot: Real-Time Social Platform ([SpinShot](https://github.com/osallak/SpinShot))
-SpinShot is a full-stack social platform featuring real-time interactions via web sockets. With secure authentication, responsive interfaces, and scalable backend architecture, this platform reflects my expertise in building modern, AI-enhanced web applications.
+## 💼 Featured Projects
 
-### RegexEngine: Lightweight Custom Regex Parser ([RegexEngine](https://github.com/osallak/regexEngine))
-RegexEngine is a custom-built regular expression engine in JavaScript, supporting core regex functions like `.`, `*`, and `?`. Optimized for performance, this tool allows fast and accurate pattern matching, making it suitable for applications needing lightweight regex functionality without the overhead of full libraries.
+### Andala.ai: MLOps Platform for Multimodal AI
+End-to-end MLOps infrastructure for deploying multimodal models (music, video, image generation). Built scalable inference APIs with PyTorch and Django, implemented CI/CD pipelines for automated model deployment, and reduced inference costs by 45% through GPU optimization and caching strategies.
+- **Tech Stack:** Python, Django, PyTorch, AWS, Docker, CI/CD
 
-### Inception: Dockerized System Administration ([Inception](https://github.com/osallak/inception))
-Inception focuses on containerization, simulating a secure production-grade environment using Docker. This project involved creating isolated, containerized services, showcasing my skills in Docker, Linux administration, and secure deployment practices within a complex virtualized setup.
+### LLM-Assisted Learning Platform
+AI-powered e-learning platform with LangChain-based retrieval-augmented generation (RAG). Integrated domain-specific LLMs, vector databases, and personalized tutoring agents enabling real-time adaptive learning with sub-second retrieval latency for hundreds of concurrent users.
+- **Tech Stack:** Python, FastAPI, LangChain, RAG, Redis, Vector DBs, Docker
 
-### DOOM: Ray-Casting Game Engine ([DOOM](https://github.com/osallak/cub3D))
-DOOM is a reimagined version of the iconic game using ray-casting in C, with immersive 3D maze exploration. This project underscores my abilities in low-level graphics rendering, memory management, and game logic, delivering a retro gaming experience crafted from scratch.
+### SpinShot: Real-Time Multiplayer Gaming Platform ([SpinShot](https://github.com/osallak/SpinShot))
+Real-time multiplayer pong game with WebSocket communication and microservices architecture. Supports hundreds of simultaneous players with minimal latency, featuring chat, matchmaking, authentication, and comprehensive end-to-end testing.
+- **Tech Stack:** NestJS, TypeScript, WebSocket, PostgreSQL, Docker
 
-## 📚 Learning & Growth
-I’m dedicated to continuous growth, expanding my knowledge in AI-enhanced application integration, microservices, scalable web platforms, and advanced system programming. Every project brings an opportunity to refine my skills and adopt the latest best practices in software development.
+### Streamix: Video Streaming Platform ([Streamix](https://github.com/osallak/streamix))
+Netflix-style streaming platform with dynamic content loading, server-side rendering, and optimized caching. Implemented analytics and user behavior tracking for personalized recommendations, reducing page load time by 40%.
+- **Tech Stack:** Next.js, TypeScript, PostgreSQL, TailwindCSS
+
+### IRC Server: Network Programming in C++ ([IRC](https://github.com/osallak/ft_irc))
+RFC 1459-compliant IRC server with efficient concurrency and event handling. Implemented message routing, user authentication, and command parsing demonstrating mastery of sockets, multi-threading, and low-level networking.
+- **Tech Stack:** C++, Network Programming, Unix, Concurrency
+
+## 🎓 Background
+- **1337 School (42 Network)** - Completed Common Core at 100%, currently pursuing Senior Software Architect specialization with focus on AI/MLOps and distributed systems
+- **Advanced Certifications** - Python, JavaScript, C/C++ (CodinGame)
+
+## 🚀 What I'm Working On
+- Leading AI integration efforts at Chemp.ai (mobile & web platforms)
+- Building production MLOps systems at Andala.ai
+- Developing AI-assisted learning platforms with RAG and agentic workflows
+- Exploring advanced retrieval techniques and multimodal model deployment
 
 ## 📫 Let's Connect!
 - Portfolio: [osallak.tech](https://osallak.tech)
@@ -35,4 +56,4 @@ I’m dedicated to continuous growth, expanding my knowledge in AI-enhanced appl
 - LinkedIn: [linkedin.com/in/osallak](https://linkedin.com/in/osallak)
 - Email: oussamasallak1@gmail.com
 
-Check out my work, and if you’d like to collaborate, I’m just a message away. Let’s innovate together! 🚀
+I'm passionate about building intelligent systems that are scalable, reliable, and cost-efficient. If you're working on AI/ML projects or want to collaborate, let's connect! 🚀
